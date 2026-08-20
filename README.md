@@ -17,7 +17,7 @@ Fluxus Central does not collect private data, expose database credentials, or ac
 ## Links
 
 - Website: [fluxuscentral.sbs](https://fluxuscentral.sbs)
-- Repository: [Fluxus-Central/Fluxus-Central](https://github.com/Fluxus-Central/Fluxus-Central)
+- Repository: [Fluxus-Central/Fluxus-Central](https://github.com/Fluxus-Central)
 
 ## Project status
 
